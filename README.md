@@ -5,4 +5,6 @@ The dataset has following fields (self-explanatory) - ['RecipeName', 'Translated
 I was explore the TotalTimeInMins, time required to prepare a dish,the common ingredients, different cuisines, diets, courses and other.
 I perform several ML algorithms on the dataset some for classification and other for prediction and some clustering.
 I was generated some recipes using markovify package.
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.blueosa.com%2Fthe-top-10-indian-dishes%2F&psig=AOvVaw22EeyEiUrtkz8kLOF2T1Jy&ust=1616673965877000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCooP_xyO8CFQAAAAAdAAAAABAD
+
+picture for imagination
+![the-best-top-10-indian-dishes](https://user-images.githubusercontent.com/57616193/112308152-7e866d00-8caa-11eb-9a77-0d20994f6e58.jpg)
