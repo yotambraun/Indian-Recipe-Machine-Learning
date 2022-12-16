@@ -1,5 +1,5 @@
 # Indian-Recipe-Machine-Learning
-n this project, I dug in a dataset of the Indian recipe from : http://dx.doi.org/10.17632/xsphgmmh7b.1. explore with many methods of ml algo and some Nlp
+In this project, I dug in a dataset of the Indian recipe from : http://dx.doi.org/10.17632/xsphgmmh7b.1. explore with many methods of ml algo and some Nlp
 The dataset has following fields (self-explanatory) - ['RecipeName', 'TranslatedRecipeName', 'Ingredients', 'TranslatedIngredients', 'Prep', 'Cook', 'Total', 'Servings', 'Cuisine', 'Course', 'Diet', 'Instructions', 'TranslatedInstructions']
 
 I was explore the TotalTimeInMins, time required to prepare a dish,the common ingredients, different cuisines, diets, courses and other.
